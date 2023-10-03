@@ -1,4 +1,4 @@
-![logo](https://github.com/Shreyashbhise/shreyashbhise/blob/master/Shreyash%20Bhise.png)
+![logo]https://github.com/Shreyashbhise/shreyashbhise/blob/master/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner(1).png
 <h1 align="center">Hi 👋, I'm Shreyash Bhise</h1>
 <h3 align="center">DevOps Engineer</h3>
 
