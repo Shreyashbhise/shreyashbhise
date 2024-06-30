@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyashbhise" alt="shreyashbhise" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Aspiring Full Stack Developer and DevOps enthusiast**
 
 - 📝 I regularly write articles on [https://shreyashbhise.hashnode.dev/](https://shreyashbhise.hashnode.dev/)
 
-- 💬 Ask me about **Kbernetes , Docker , Jenkins , Python**
+- 💬 Ask me about **Javascript, Nodejs, MongoDB, Kbernetes , Docker , Jenkins , Python**
 
 - 📫 How to reach me **shreyashbhise16@gmail.com**
 
