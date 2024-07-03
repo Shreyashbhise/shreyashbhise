@@ -1,4 +1,5 @@
-![logo](https://github.com/Shreyashbhise/shreyashbhise/blob/master/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner(1).png)
+![logo](https://github.com/Shreyashbhise/shreyashbhise/blob/master/![sh](https://github.com/Shreyashbhise/shreyashbhise/assets/108046802/48806f14-7baf-45d4-aec1-1963b0db48d7)
+)
 <h1 align="center">Hi 👋, I'm Shreyash Bhise</h1>
 <h3 align="center">Full Stack Developer</h3>
 
